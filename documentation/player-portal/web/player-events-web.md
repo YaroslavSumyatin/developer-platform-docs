@@ -22,7 +22,7 @@ Player core events consist of two event types:
 player.Event.Core.EVENT_NAME;
 ```
 
-The full core events list can be found [here](https://github.com/kaltura/playkit-js/blob/master/src/event/event-type.js). 
+The full core events list can be found [here](https://github.com/kaltura/playkit-js/blob/master/src/event/event-type.ts). 
 
 ### UI Events
 
